@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/PRATIBHANU JARNGAL/AppData/Local/Programs/Microsoft/jdk-17.0.16.8-hotspot/include",
+        "C:/Users/PRATIBHANU JARNGAL/AppData/Local/Programs/Microsoft/jdk-17.0.16.8-hotspot/include/win32"
+      ],
+      "defines": [],
+      "compilerPath": "C:/Dev-Cpp/TDM-GCC-64/bin/g++.exe",  // or wherever your g++ is
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
